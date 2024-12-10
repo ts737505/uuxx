@@ -1,5 +1,4 @@
    “`
-   git add .
-   git commit -m “Initial commit”
-   git push origin master
+   git init
+   git remote add origin 
    “`
